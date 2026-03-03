@@ -1,0 +1,13 @@
+release/audiodecoder.o
+release/demuxthread.o
+release/displaywidget.o
+release/main.o
+release/mainwindow.o
+release/playercontroller.o
+release/videodecoder.o
+release/qrc_shader.o
+release/moc_audiodecoder.o
+release/moc_displaywidget.o
+release/moc_mainwindow.o
+release/moc_playercontroller.o
+release/moc_videodecoder.o

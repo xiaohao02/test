@@ -1,0 +1,13 @@
+debug/audiodecoder.o
+debug/demuxthread.o
+debug/displaywidget.o
+debug/main.o
+debug/mainwindow.o
+debug/playercontroller.o
+debug/videodecoder.o
+debug/qrc_shader.o
+debug/moc_audiodecoder.o
+debug/moc_displaywidget.o
+debug/moc_mainwindow.o
+debug/moc_playercontroller.o
+debug/moc_videodecoder.o
